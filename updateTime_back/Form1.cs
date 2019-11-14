@@ -185,7 +185,7 @@ namespace updateTime_back
                 //查詢每個登入時間內時間
                 conn = new SqlConnection(myConnectionString15);
                 conn.Open();
-                selectCmd = "SELECT [OperatorId],[LoginTime], [LogoutTime],[ID]  FROM [" + reader3.GetString(0) + "])";
+                selectCmd = "SELECT [OperatorId],[LoginTime], [LogoutTime],[ID]  FROM [" + reader3.GetString(0) + "]";
                 cmd = new SqlCommand(selectCmd, conn);
                 reader = cmd.ExecuteReader();
                 while (reader.Read())
