@@ -1,0 +1,16 @@
+C:\Users\Phyu\source\repos\updateTime_back\updateTime_back\bin\Debug\updateTime_back.exe.config
+C:\Users\Phyu\source\repos\updateTime_back\updateTime_back\bin\Debug\updateTime_back.exe
+C:\Users\Phyu\source\repos\updateTime_back\updateTime_back\bin\Debug\updateTime_back.pdb
+C:\Users\Phyu\source\repos\updateTime_back\updateTime_back\obj\Debug\updateTime_back.csprojAssemblyReference.cache
+C:\Users\Phyu\source\repos\updateTime_back\updateTime_back\obj\Debug\updateTime_back.Form1.resources
+C:\Users\Phyu\source\repos\updateTime_back\updateTime_back\obj\Debug\updateTime_back.Properties.Resources.resources
+C:\Users\Phyu\source\repos\updateTime_back\updateTime_back\obj\Debug\updateTime_back.csproj.GenerateResource.cache
+C:\Users\Phyu\source\repos\updateTime_back\updateTime_back\obj\Debug\updateTime_back.csproj.CoreCompileInputs.cache
+C:\Users\Phyu\source\repos\updateTime_back\updateTime_back\obj\Debug\updateTime_back.exe
+C:\Users\Phyu\source\repos\updateTime_back\updateTime_back\obj\Debug\updateTime_back.pdb
+C:\Users\Phyu\source\repos\updateTime_back\updateTime_back\obj\Debug\updateTime_back.Form2.resources
+C:\Users\Phyu\source\repos\updateTime_back\updateTime_back\bin\Debug\updateTime_back.exe.manifest
+C:\Users\Phyu\source\repos\updateTime_back\updateTime_back\bin\Debug\updateTime_back.application
+C:\Users\Phyu\source\repos\updateTime_back\updateTime_back\obj\Debug\updateTime_back.TrustInfo.xml
+C:\Users\Phyu\source\repos\updateTime_back\updateTime_back\obj\Debug\updateTime_back.exe.manifest
+C:\Users\Phyu\source\repos\updateTime_back\updateTime_back\obj\Debug\updateTime_back.application
